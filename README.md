@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  A fast way to manage delivery companies!
+  The best way to throw away trash
 </h3>
 
 <div align="center">
